@@ -1,0 +1,60 @@
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: none;
+    border-radius: 50%;
+    display: inline-block;
+    color: black;
+    font-weight: bolder;  
+}
+.backtotop:hover{
+    color:gray;
+}
+.backtotop{
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
+a:hover {
+    color:gray;
+}
+body{
+    background-color:#e6e1bd;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.big{
+    color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: black;
+}
+.copyrite{
+    font-style: italic;
+    text-align: center;
+    color: #7C878E;
+}
+.navitem{
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.tableauPlaceholder{
+    width: 45% !important;
+    padding-left: 3% !important;
+}
+.column {
+    float: left;
+    width: 45%;
+    max-height: 40% !important;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+p{
+    float: left;
+    padding-left: 20%;
+}
